@@ -1079,11 +1079,11 @@ ZONEMINDERDEP="apache2 mysql-server mysql-common software-properties-common php 
 # Declarando as variáveis utilizadas nas configurações do sistema de acesso remoto Guacamole
 #
 # Variável de download do Apache Guacamole (Links atualizados no dia 14/09/2023)
-GUACAMOLESERVER="https://archive.apache.org/dist/guacamole/1.5.3/source/guacamole-server-1.5.3.tar.gz"
-GUACAMOLECLIENT="https://archive.apache.org/dist/guacamole/1.5.3/binary/guacamole-1.5.3.war"
-GUACAMOLEJDBC="https://archive.apache.org/dist/guacamole/1.5.3/binary/guacamole-auth-jdbc-1.5.3.tar.gz"
-GUACAMOLETOTP="https://archive.apache.org/dist/guacamole/1.5.3/binary/guacamole-auth-totp-1.5.3.tar.gz"
-GUACAMOLEHISTORY="https://archive.apache.org/dist/guacamole/1.5.3/binary/guacamole-history-recording-storage-1.5.3.tar.gz"
+GUACAMOLESERVER="https://archive.apache.org/dist/guacamole/1.5.5/source/guacamole-server-1.5.5.tar.gz"
+GUACAMOLECLIENT="https://archive.apache.org/dist/guacamole/1.5.5/binary/guacamole-1.5.5.war"
+GUACAMOLEJDBC="https://archive.apache.org/dist/guacamole/1.5.5/binary/guacamole-auth-jdbc-1.5.5.tar.gz"
+GUACAMOLETOTP="https://archive.apache.org/dist/guacamole/1.5.5/binary/guacamole-auth-totp-1.5.5.tar.gz"
+GUACAMOLEHISTORY="https://archive.apache.org/dist/guacamole/1.5.5/binary/guacamole-history-recording-storage-1.5.5.tar.gz"
 #
 # Variável de download do Conector do MySQL em Java do Apache Guacamole (Link atualizado no dia 14/09/2023)
 # Link para pesquisar a versão: https://dev.mysql.com/downloads/connector/j/ 
