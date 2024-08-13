@@ -1448,10 +1448,10 @@ OWNCLOUDDEP="bind9 mysql-server mysql-common apache2 php"
 # Declarando as variáveis utilizadas nas configurações do sistema de inventário OCS Inventory
 #
 # Variável de download do instalador do OCS Inventory Server (Link atualizado no dia 25/07/2023).
-OCSINVENTORYSERVERINSTALL="https://github.com/OCSInventory-NG/OCSInventory-ocsreports/releases/download/2.12.0/OCSNG_UNIX_SERVER-2.12.0.tar.gz"
+OCSINVENTORYSERVERINSTALL="https://github.com/OCSInventory-NG/OCSInventory-ocsreports/releases/download/2.12.2/OCSNG_UNIX_SERVER-2.12.2.tar.gz"
 #
 # Variável de download do instalador do OCS Inventory Agent (Link atualizado no dia 04/12/2022).
-OCSINVENTORYAGENTINSTALL="https://github.com/OCSInventory-NG/UnixAgent/releases/download/v2.10.0/Ocsinventory-Unix-Agent-2.10.0.tar.gz"
+OCSINVENTORYAGENTINSTALL="https://github.com/OCSInventory-NG/UnixAgent/releases/download/v2.10.2/Ocsinventory-Unix-Agent-2.10.2.tar.gz"
 #
 # Variável de verificação do Chip Gráfico da NVIDIA
 # opção do comando lshw: -class display (lista as informações da placa de vídeo)
